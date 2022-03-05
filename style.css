@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+h1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+.photo{
+    width: 400px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+ul>li,ol>li{
+    text-align: center;
+    list-style-position: inside;
+    font-size: 24px;
+    margin-top: 5px;
+    border: 2px solid grey;
+    background-color: grey;
+    border-radius: 5px;
+}
+.forOne{
+    margin-top: 50px;
+}
+h3,p{
+    font-size: 24px;
+    text-align: center;
+}
